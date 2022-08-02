@@ -1,0 +1,11 @@
+.intro {
+    text-align: left;
+    height: 85px;
+}
+nav1 {
+    border: 2px solid red;
+}
+nav1 > p {
+    /* 수평정렬, 4개의 button을 각각 20% width만큼 할당 */
+    text-align: center;
+}
