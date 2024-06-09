@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on ROKMC, software engineer
+- 🔭 I’m recently working on ROKMC, software engineer
 - 🌱 I’m currently learning AI, Artificial Intelligence
 - 🤔 I’m looking for help with AI engineer && Web developer
 - 💬 Ask me about Programing Language skill
