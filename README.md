@@ -18,7 +18,7 @@ Below is a summary of my key professional experiences. For detailed project insi
 * **Contributions:** I contribute to optimizing the user experience and performance of existing services, and I'm actively preparing for a **new platform development project for quantitative trading (Quant)**. My focus is on designing user-centric interfaces and building robust frontend architectures.
 
 #### **2. Team Kkokkio Alarm (Transport Team Product Owner)**
-* **Kkokkio:** [https://www.kkokk.io]
+* **Kkokkio:** [https://kkokk.io]
 * **Key Activities:** Led the **core product strategy** and development of **'Kkokkio Alarm,' a public transportation alert service**.
 * **Contributions:** Guided the development of products across **AOS, iOS, and Web platforms**. I successfully managed the development process from ideation to launch, enhancing my **project management and multi-platform development expertise** by bridging business needs with technical execution.
 
