@@ -97,4 +97,6 @@ Led **“Sotong Gonggam”** defense communication app project and contributed t
 
 ---
 
-> “Technology is best when it brings people together.” — Matt Mullenweg  
+> “Technology is best when it brings people together.” — Matt Mullenweg 
+> "No Silver Bullet." 
+
